@@ -1,0 +1,8 @@
+#zip
+*.zip
+#log
+*.log
+#swp
+*.swp
+#csv
+*.csv
